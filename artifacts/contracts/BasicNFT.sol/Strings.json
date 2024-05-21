@@ -1,0 +1,27 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Strings",
+  "sourceName": "contracts/BasicNFT.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "value",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256",
+          "name": "length",
+          "type": "uint256"
+        }
+      ],
+      "name": "StringsInsufficientHexLength",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea2646970667358221220a8fc011e23559b5ea8704441e22a5ba8e87853b46e5396c6e199350c68b4d4ba64736f6c63430008140033",
+  "deployedBytecode": "0x600080fdfea2646970667358221220a8fc011e23559b5ea8704441e22a5ba8e87853b46e5396c6e199350c68b4d4ba64736f6c63430008140033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

@@ -1,0 +1,153 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/mac/Desktop/freelancing/nft-auction/contracts/BasicNFT.sol": {
+      "lastModificationDate": 1716067688371,
+      "contentHash": "bead02b14d7e8275a0cd4a67c373491e",
+      "sourceName": "contracts/BasicNFT.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Context",
+        "Counters",
+        "DEVNFT",
+        "ERC165",
+        "ERC721",
+        "ERC721URIStorage",
+        "IERC1155Errors",
+        "IERC165",
+        "IERC20Errors",
+        "IERC4906",
+        "IERC721",
+        "IERC721Errors",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "Math",
+        "Ownable",
+        "ReentrancyGuard",
+        "SignedMath",
+        "Strings"
+      ]
+    },
+    "/Users/mac/Desktop/freelancing/nft-auction/contracts/NFTAuction.sol": {
+      "lastModificationDate": 1716067139026,
+      "contentHash": "80838f384a6c241345ebe63b588186ef",
+      "sourceName": "contracts/NFTAuction.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.20",
+        "^0.8.0",
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "BasicNFT",
+        "Context",
+        "Counters",
+        "ERC165",
+        "ERC721",
+        "ERC721URIStorage",
+        "IERC1155Errors",
+        "IERC165",
+        "IERC20Errors",
+        "IERC4906",
+        "IERC721",
+        "IERC721Errors",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "Math",
+        "NFTAuction",
+        "Ownable",
+        "ReentrancyGuard",
+        "SignedMath",
+        "Strings"
+      ]
+    }
+  }
+}
